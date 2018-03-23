@@ -6,7 +6,8 @@
 
 /*
  7. After you fixed the error, why is this an error? Note: do not just repeat Eclipse's error message,
- why did Eclipse have that error message?
+ why did Eclipse have that error message? 
+ When i ran the code there was no error, code ran as intended.
  
  
  
